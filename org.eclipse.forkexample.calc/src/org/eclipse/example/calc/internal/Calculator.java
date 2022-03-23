@@ -20,6 +20,7 @@ import org.eclipse.example.calc.internal.operations.Square;
 
 public class Calculator {
 
+	// Starten mit Comment
 	private TextProvider textProvider;
 
 	private String cmd;
